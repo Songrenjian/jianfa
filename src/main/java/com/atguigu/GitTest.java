@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("尚硅谷");
         System.out.println("尚硅谷");
         System.out.println("尚硅谷");
+        System.out.println("A");
     }
 }
